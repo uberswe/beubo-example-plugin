@@ -1,0 +1,1 @@
+# Beubo Example Plugin
